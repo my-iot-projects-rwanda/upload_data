@@ -1,0 +1,3 @@
+amount,destination
+200,gikondo
+300,Kimisagara
