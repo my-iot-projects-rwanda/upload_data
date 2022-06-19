@@ -27,7 +27,7 @@ if res.ok:
         timeout=1
     )
 
-    ser.write(bytes(stringData), 'utf-8')
+    ser.write(bytes(data), 'utf-8')
     ser.flush()
     print("successfully wrote to serial")
 
